@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java + DSA Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Java + DSA Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_00-flow-of-program/TypeCastingAndConversion/TypeCastingAndConversion.iml" filepath="$PROJECT_DIR$/_00-flow-of-program/TypeCastingAndConversion/TypeCastingAndConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_00-flow-of-program/_00-flow-of-program.iml" filepath="$PROJECT_DIR$/_00-flow-of-program/_00-flow-of-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01-conditionals-and-loop/_01-conditionals-and-loop.iml" filepath="$PROJECT_DIR$/_01-conditionals-and-loop/_01-conditionals-and-loop.iml" />
+    </modules>
+  </component>
+</project>
